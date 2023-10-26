@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
-
 	<title>jona pharm</title>
-
-			<h1><mark>Konkurs</mark></h1>
+<h1><mark>Konkurs</mark></h1>
 </head>
 <body>
 
